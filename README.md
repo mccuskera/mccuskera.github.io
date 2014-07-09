@@ -12,3 +12,5 @@ Getting exposed to Git and GitHub
 * `git pull`
 * `git log`
 * `git push`
+* Out-of-sync
+* Push, pull, fetch comparison
